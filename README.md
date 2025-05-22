@@ -6,6 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=600&lines=An+aspiring+AI+%26+Data+Science+Enthusiast;Based+in+Germany" alt="Typing Enthusiast Line" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/5xaOcLwEvFOizxHVyVy/giphy.gif" alt="Rainbow text" width="400"/>
+</p>
+
+<h3 align="center">PUJAYANT KUMAR</h3>
 
 
 <p align="center">
