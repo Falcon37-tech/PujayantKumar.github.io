@@ -90,13 +90,4 @@
 </p>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Thanks+for+visiting!&fontSize=20&color=gradient&fontColor=ffffff&animation=fadeIn&section=footer" />
-</p>
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/thanks-animated.svg" />
-</p>
-
 > _“Code like a human, think like a machine.”_
