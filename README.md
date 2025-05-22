@@ -8,6 +8,14 @@
 
 
 <p align="center">
+  <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="400" alt="robotic matrix typing"/>
+</p>
+
+<h3 align="center">Hi 👋, I'm Pujayant Kumar</h3>
+<h4 align="center">An aspiring AI & Data Science Enthusiast from Germany</h4>
+
+
+<p align="center">
   <a href="https://falcon37-tech.github.io/PujayantKumar.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github" alt="Portfolio Badge"/>
   </a>
