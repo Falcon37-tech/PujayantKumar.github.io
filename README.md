@@ -80,7 +80,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Thanks+for+visiting!&fontAlign=40&fontColor=ffffff&color=gradient&animation=twinkling&section=footer"/>
 </p>
 
 > _“Code like a human, think like a machine.”_
