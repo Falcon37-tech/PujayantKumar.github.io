@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&duration=4000&pause=1200&color=00FF00&center=true&vCenter=true&width=750&lines=Booting+system...;Username%3A+PUJAYANT+KUMAR;Initializing+AI+Modules...;Welcome+to+My+GitHub+Terminal" />
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=22&pause=1500&color=39FF14&center=true&vCenter=true&width=800&lines=AI+%26+ML+Engineer;Data+Scientist+%7C+Python+Ninja;Let's+build+some+intelligence+%F0%9F%92%BB" />
 </p>
 
 
