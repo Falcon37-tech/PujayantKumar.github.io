@@ -11,11 +11,10 @@
   <a href="https://falcon37-tech.github.io/PujayantKumar.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github" alt="Portfolio Badge"/>
   </a>
-  <a href="mailto:pujayantkuamr@gmail.com">
+  <a href="mailto:pujayantkumar@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
   </a>
 </p>
-
 
 ---
 
