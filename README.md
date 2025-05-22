@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=5000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=%E2%9C%94+PUJAYANT+KUMAR;+AI+%26+Data+Science+Engineer;Gliding+into+the+Future+of+Tech..." />
+</p>
+
+<p align="center">
   <a href="https://falcon37-tech.github.io/PujayantKumar.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github" alt="Portfolio Badge"/>
   </a>
