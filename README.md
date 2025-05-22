@@ -96,25 +96,8 @@
 </p>
 
 <p align="center">
-  <svg viewBox="0 0 800 60" width="800" height="60">
-    <style>
-      .text {
-        font-size: 20px;
-        fill: #00ffff;
-        font-family: 'Ubuntu Mono', monospace;
-      }
-      .bounce {
-        animation: bounce 1s infinite alternate;
-      }
-      @keyframes bounce {
-        0%   { transform: translateY(0px); }
-        100% { transform: translateY(-10px); }
-      }
-    </style>
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="text bounce">
-      Code like a human, think like a machine.
-    </text>
-  </svg>
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/bounce-text.svg" />
 </p>
+
 
 > _“Code like a human, think like a machine.”_
