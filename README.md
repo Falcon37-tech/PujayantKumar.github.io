@@ -1,12 +1,17 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Pujayant+Kumar;An+aspiring+AI+&#38;+Data+Science+Enthusiast+from+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pujayant+Kumar" alt="Typing Hi I'm Pujayant Kumar" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=An+aspiring+AI+&#38;+Data+Science+Enthusiast+from+Germany" alt="Typing Enthusiast Line" />
+</p>
+
 
 <p align="center">
   <a href="https://falcon37-tech.github.io/PujayantKumar.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github" alt="Portfolio Badge"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:pujayantkuamr@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
   </a>
 </p>
@@ -25,13 +30,11 @@
 
 ---
 
-## 🛠️ Technologies & Tools
-
 <p align="center">
   <a href="https://falcon37-tech.github.io/PujayantKumar.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github" alt="Portfolio Badge"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:pujayantkumar@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
   </a>
 </p>
