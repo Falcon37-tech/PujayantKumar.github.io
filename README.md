@@ -95,9 +95,5 @@
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=20&duration=5000&pause=2500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Code+like+a+human,+think+like+a+machine." />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/bounce-text.svg" />
-</p>
 
 
-> _“Code like a human, think like a machine.”_
