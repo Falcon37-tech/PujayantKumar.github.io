@@ -82,5 +82,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Thanks+for+visiting!&fontAlign=40&fontColor=ffffff&fontSize=20&color=gradient&animation=twinkling&section=footer"/>
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=500&color=00FFFF&width=600&lines=⬅️+Thanks+for+visiting!+➡️;⬆️+Thanks+for+visiting!+⬇️" />
+</p>
 
 > _“Code like a human, think like a machine.”_
