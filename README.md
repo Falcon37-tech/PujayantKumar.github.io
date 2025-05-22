@@ -80,7 +80,11 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Thanks+for+visiting!&fontAlign=40&fontColor=ffffff&color=gradient&animation=twinkling&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=70&text=Thanks+for+visiting!&fontAlign=40&fontColor=ffffff&color=gradient&animation=twinkling&section=footer"/>
 </p>
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00FFFF,100:000000&height=100&section=footer&text=🚀+Made+with+AI+by+Pujayant&fontColor=ffffff" />
+</p>
 > _“Code like a human, think like a machine.”_
