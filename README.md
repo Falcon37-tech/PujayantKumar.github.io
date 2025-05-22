@@ -11,9 +11,6 @@
   <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="400" alt="robotic matrix typing"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=22&duration=3500&pause=1000&color=00FFAA&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Pujayant+Kumar;An+aspiring+AI+%26+Data+Science+Enthusiast;Based+in+Germany" alt="Futuristic Typing SVG" />
-</p>
 
 <p align="center">
   <a href="https://falcon37-tech.github.io/PujayantKumar.github.io/" target="_blank">
