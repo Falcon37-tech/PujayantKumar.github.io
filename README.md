@@ -13,6 +13,9 @@
   <img src="https://textanim.com/generate?text=PUJAYANT+KUMAR&font=Orbitron&size=48&style=zoom&color=00FFFF&bg=000000&animation=fadein" alt="Zoom Fade Name Animation" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/8YutMatqkTfSE/giphy.gif" width="500" alt="Glitch wave effect"/>
+</p>
 
 <p align="center">
   <a href="https://falcon37-tech.github.io/PujayantKumar.github.io/" target="_blank">
