@@ -89,8 +89,14 @@
 </p>
 
 
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=5000&pause=1500&color=00FFDD&center=true&vCenter=true&width=700&lines=“Code+like+a+human,+think+like+a+machine.”" />
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=20&duration=5000&pause=2500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Code+like+a+human,+think+like+a+machine." />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=3500&pause=1500&color=00F9FF&center=true&vCenter=true&width=800&lines=👨‍💻+Code+like+a+human,+think+like+a+machine.+🤖" />
 </p>
 
 > _“Code like a human, think like a machine.”_
