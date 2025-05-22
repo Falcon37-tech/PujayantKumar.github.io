@@ -6,23 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=600&lines=An+aspiring+AI+%26+Data+Science+Enthusiast;Based+in+Germany" alt="Typing Enthusiast Line" />
 </p>
 
-<h3 align="center">
-  <span style="color:#e6194b">P</span>
-  <span style="color:#3cb44b">U</span>
-  <span style="color:#ffe119">J</span>
-  <span style="color:#4363d8">A</span>
-  <span style="color:#f58231">Y</span>
-  <span style="color:#911eb4">A</span>
-  <span style="color:#46f0f0">N</span>
-  <span style="color:#f032e6">T</span>
-  <span style="color:#bcf60c"> </span>
-  <span style="color:#fabebe">K</span>
-  <span style="color:#008080">U</span>
-  <span style="color:#e6beff">M</span>
-  <span style="color:#9a6324">A</span>
-  <span style="color:#fffac8">R</span>
-</h3>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=500&color=00F9FF&center=true&vCenter=true&width=600&lines=🔄+PUJAYANT+KUMAR+is+Loading...;⚙️+AI+Developer+|+Prompt+Engineer" />
+</p>
 <p align="center">
   <a href="https://falcon37-tech.github.io/PujayantKumar.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github" alt="Portfolio Badge"/>
