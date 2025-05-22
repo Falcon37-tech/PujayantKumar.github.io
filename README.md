@@ -79,23 +79,12 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Thanks+for+visiting!&fontAlign=40&fontColor=ffffff&fontSize=20&color=gradient&animation=twinkling&section=footer"/>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=500&color=00FFFF&width=600&lines=⬅️+Thanks+for+visiting!+➡️;⬆️+Thanks+for+visiting!+⬇️" />
-</p>
 
 
-<!-- Static background capsule -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!" />
-</p>
-
+  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
 </p>
