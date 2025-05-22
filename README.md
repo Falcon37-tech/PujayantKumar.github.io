@@ -102,4 +102,8 @@
   </svg>
 </p>
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/animated-text.svg" />
+</p>
 > _“Code like a human, think like a machine.”_
