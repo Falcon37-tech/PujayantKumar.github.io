@@ -90,4 +90,9 @@
 </p>
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Thanks+for+visiting!&fontSize=20&color=gradient&fontColor=ffffff&animation=fadeIn&section=footer" />
+</p>
+
+
 > _“Code like a human, think like a machine.”_
