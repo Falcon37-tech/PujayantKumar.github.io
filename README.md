@@ -85,6 +85,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00FFFF,100:000000&height=100&section=footer&text=🚀+Made+with+AI+by+Pujayant&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=222222&height=100&section=footer&text=👨‍💻+Happy+Coding!+%7C+Pujayant+Kumar&fontColor=00FF00" />
 </p>
+
 > _“Code like a human, think like a machine.”_
