@@ -6,6 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=600&lines=An+aspiring+AI+%26+Data+Science+Enthusiast;Based+in+Germany" alt="Typing Enthusiast Line" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=4000&pause=1200&color=00FFD1&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Pujayant+Kumar;AI+%26+Data+Science+Enthusiast;Python+%7C+SQL+%7C+Machine+Learning;ChatGPT+Developer+based+in+Germany" />
+</p>
+
+
 
 <p align="center">
   <a href="https://falcon37-tech.github.io/PujayantKumar.github.io/" target="_blank">
