@@ -7,8 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&pause=500&color=00F9FF&center=true&vCenter=true&width=600&lines=🔄+PUJAYANT+KUMAR+is+Loading...;⚙️+AI+Developer+|+Prompt+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&duration=4000&pause=1200&color=00FF00&center=true&vCenter=true&width=750&lines=Booting+system...;Username%3A+PUJAYANT+KUMAR;Initializing+AI+Modules...;Welcome+to+My+GitHub+Terminal" />
 </p>
+
+
+
 <p align="center">
   <a href="https://falcon37-tech.github.io/PujayantKumar.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github" alt="Portfolio Badge"/>
