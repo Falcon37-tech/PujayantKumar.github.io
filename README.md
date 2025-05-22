@@ -6,13 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=600&lines=An+aspiring+AI+%26+Data+Science+Enthusiast;Based+in+Germany" alt="Typing Enthusiast Line" />
 </p>
 
-<p align="center">
-  <img src="https://yourdomain.com/path-to-glitch-banner.png" alt="Glitch Name Banner" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1500&color=FF44AA&center=true&vCenter=true&width=800&lines=Hi+there+player!;Welcome+to+my+GitHub+README;Enjoy+the+ride+%F0%9F%9A%80" />
-</p>
 
 <p align="center">
   <a href="https://falcon37-tech.github.io/PujayantKumar.github.io/" target="_blank">
@@ -23,7 +16,12 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=1500&color=FF44AA&center=true&vCenter=true&width=800&lines=Hi+there+player!;Welcome+to+my+GitHub+README;Enjoy+the+ride+%F0%9F%9A%80" />
+</p>
+ 
 ---
+
 
 ## 🚀 About Me
 
