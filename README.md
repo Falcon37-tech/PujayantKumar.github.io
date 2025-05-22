@@ -7,9 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=4000&pause=1200&color=00FFD1&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Pujayant+Kumar;AI+%26+Data+Science+Enthusiast;Python+%7C+SQL+%7C+Machine+Learning;ChatGPT+Developer+based+in+Germany" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=750&lines=System+Booting...;User%3A+Pujayant+Kumar;Accessing+AI+Modules...;Machine+Learning+Engaged.;Welcome+to+my+GitHub+Lab+%F0%9F%A7%A0" />
 </p>
-
 
 
 <p align="center">
