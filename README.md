@@ -86,11 +86,18 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=500&color=00FFFF&width=600&lines=⬅️+Thanks+for+visiting!+➡️;⬆️+Thanks+for+visiting!+⬇️" />
 </p>
 
+
+<!-- Static background capsule -->
 <p align="center">
-  <svg width="400" height="60">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="22" fill="#00ffff">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+</p>
+
+<!-- Animated moving text only -->
+<p align="center">
+  <svg width="500" height="40">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="20" fill="#ffffff">
       <animate attributeName="x" values="0%;100%;0%" dur="6s" repeatCount="indefinite" />
-      Thanks for visiting
+      Thanks for visiting!
     </text>
   </svg>
 </p>
