@@ -25,7 +25,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects**  
 - 🤝 I’m looking for help with **Advanced Data Structures Concepts**  
 - 💬 Ask me about **Python, Data Visualization, Quality management, Mathematics and Business Pattern Recognision**  
-- 📫 How to reach me: **pujayanatkumar@gmail.com**  
+- 📫 How to reach me: **pujayantkumar@gmail.com**  
 - ⚡ Fun fact: **I automate boring tasks using Python and experimenting with new AI models in Fact I love to solve coding challenges and explore new technologies.**
 
 ---
@@ -58,7 +58,7 @@
   <a href="https://x.com/pujayant_kumar_" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="30" />
   </a>
-  <a href="mailto:pujayntkumar@gmail.com">
+  <a href="mailto:pujayantkumar@gmail.com">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="30" />
   </a>
 </p>
