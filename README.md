@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Pujayant+Kumar;An+aspiring+AI+&#38;+Data+Science+Enthusiast+from+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Pujayant+Kumar;An+aspiring+AI+&#38;+Data+Science+Enthusiast+from+India" alt="Typing SVG" />
 </p>
-
 
 <p align="center">
   <a href="https://falcon37-tech.github.io/PujayantKumar.github.io/" target="_blank">
