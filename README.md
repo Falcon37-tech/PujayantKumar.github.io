@@ -88,5 +88,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
 </p>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=5000&pause=1500&color=00FFDD&center=true&vCenter=true&width=700&lines=“Code+like+a+human,+think+like+a+machine.”" />
+</p>
 > _“Code like a human, think like a machine.”_
