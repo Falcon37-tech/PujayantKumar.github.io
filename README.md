@@ -92,18 +92,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 </p>
 
-<!-- Animated moving text only -->
 <p align="center">
-  <svg width="500" height="40">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="20" fill="#ffffff">
-      <animate attributeName="x" values="0%;100%;0%" dur="6s" repeatCount="indefinite" />
-      Thanks for visiting!
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
 </p>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/animated-text.svg" />
-</p>
 > _“Code like a human, think like a machine.”_
