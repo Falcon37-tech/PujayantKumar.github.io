@@ -6,6 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=600&lines=An+aspiring+AI+%26+Data+Science+Enthusiast;Based+in+Germany" alt="Typing Enthusiast Line" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Pujayant+Kumar;AI+%26+Data+Science+Enthusiast;Living+in+Germany" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" width="400" alt="robotic matrix typing"/>
